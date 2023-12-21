@@ -1,0 +1,18 @@
+{
+    "name": "Najm PGP",
+    "short_name": "PGP",
+    "description": "Everything PGP - Encrypt - Decrypt - Sign - Verify",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "favicon.ico",
+        "sizes": "256x256",
+        "type": "image/png"
+      }
+    ]
+  }
+  
